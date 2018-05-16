@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberValidation", "PhoneNumberValidation\PhoneNumberValidation.csproj", "{18EC0C75-0ACE-427F-B4E8-9AB154DB0566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{3DDB3D03-D69F-4FA0-803E-2D2DAB9EE5AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18EC0C75-0ACE-427F-B4E8-9AB154DB0566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EC0C75-0ACE-427F-B4E8-9AB154DB0566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EC0C75-0ACE-427F-B4E8-9AB154DB0566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EC0C75-0ACE-427F-B4E8-9AB154DB0566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDB3D03-D69F-4FA0-803E-2D2DAB9EE5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDB3D03-D69F-4FA0-803E-2D2DAB9EE5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDB3D03-D69F-4FA0-803E-2D2DAB9EE5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDB3D03-D69F-4FA0-803E-2D2DAB9EE5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BC20022-6695-41D0-8C64-2AB40DD662BD}
+	EndGlobalSection
+EndGlobal

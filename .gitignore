@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PhoneNumberValidation/bin/Debug/netcoreapp2.0
+/PhoneNumberValidation/obj
+/.vs/PhoneNumberValidation/v15
+/UnitTest/bin/Debug/netcoreapp2.0
+/UnitTest/obj
