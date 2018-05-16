@@ -4,5 +4,4 @@ mono: none
 dotnet: 1.1.5
 script:
  - dotnet restore
- - dotnet build
  - dotnet test  UnitTest/UnitTest.csproj
