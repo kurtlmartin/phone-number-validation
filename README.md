@@ -1,5 +1,5 @@
 # phone-number-validation
 
-![](https://travis-ci.com/kurtlmartin/phone-number-validation.svg?branch=master)
+[![Build Status](https://travis-ci.org/kurtlmartin/phone-number-validation.svg?branch=master)](https://travis-ci.org/kurtlmartin/phone-number-validation)
 
 
